@@ -1,7 +1,6 @@
-import requests
+import requests,urllib3
 from tqdm import tqdm
 from os import path
-import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
