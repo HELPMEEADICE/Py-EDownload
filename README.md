@@ -1,7 +1,7 @@
 # Py-EDownload
 An easy-to-configure Python download library
 
-Support self-signed https
+Support for self-signed TLS/SSL certificates
 
 The following is an example call:
 ```
